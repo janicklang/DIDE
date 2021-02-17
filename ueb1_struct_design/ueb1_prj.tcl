@@ -5,7 +5,7 @@
 #------------------- Project specific definitions ------------------
 
 #### project name
-set prj_name ue
+set prj_name ueb1
 
 #### VHDL source files
 set vhdl_src_files {}
